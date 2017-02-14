@@ -1,0 +1,14 @@
+group 'TC Sample'
+version '1.0'
+
+apply plugin: 'java'
+apply plugin: 'idea'
+
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'org.testng', name: 'testng', version: '6.10'
+}
