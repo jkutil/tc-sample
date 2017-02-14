@@ -9,6 +9,10 @@ repositories {
     mavenCentral()
 }
 
+task wrapper(type: Wrapper) {
+    gradleVersion = '3.3'
+}
+
 dependencies {
     compile group: 'org.testng', name: 'testng', version: '6.10'
 }

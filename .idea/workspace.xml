@@ -23,8 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db92bde3-a3b6-4844-9153-f74b2d31f012" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/testng_sample_xml.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -63,6 +63,56 @@
                 <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
               </PATH_ELEMENT>
             </PATH>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="TC Sample" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="Tasks" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
+              </PATH_ELEMENT>
+            </PATH>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="TC Sample" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="Tasks" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="other" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode$1" />
+              </PATH_ELEMENT>
+            </PATH>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="TC Sample" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="Tasks" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="build setup" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode$1" />
+              </PATH_ELEMENT>
+            </PATH>
           </tree_state>
         </projects_view>
       </state>
@@ -73,11 +123,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+            <state relative-caret-position="170">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -99,24 +149,10 @@
       <file leaf-file-name="SampleClassTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/SampleClassTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="357">
+              <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testng-sample.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/suite/testng-sample.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-              <folding>
-                <element signature="n#suite#0;n#!!top" expanded="true" />
-                <element signature="n#test#0;n#suite#0;n#!!top" expanded="true" />
-                <element signature="n#classes#0;n#test#0;n#suite#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -203,7 +239,6 @@
                 <option name="name" value="buildEnvironment" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="wrapper" />
               </ExternalTaskPojo>
@@ -320,7 +355,7 @@
         <entry key="$PROJECT_DIR$/../bmi-sqa-reportng" value="2937741309645" />
         <entry key="$PROJECT_DIR$/../bmi-sqa-tc" value="2951186907148" />
         <entry key="$PROJECT_DIR$/../reportng" value="2955518357324" />
-        <entry key="$PROJECT_DIR$" value="2974203068395" />
+        <entry key="$PROJECT_DIR$" value="2974203742475" />
         <entry key="$PROJECT_DIR$/../teamcity" value="2972379730018" />
         <entry key="$USER_HOME$/sqa/AES-ED" value="2949791877999" />
         <entry key="$USER_HOME$/sqa/gwent" value="4412768882833" />
@@ -431,9 +466,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/SampleClasse.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/test/java/SampleClassTest.java" />
         <option value="$PROJECT_DIR$/src/test/suite/testng-sample.xml" />
+        <option value="$PROJECT_DIR$/.idea/runConfigurations/testng_sample_xml.xml" />
+        <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
   </component>
@@ -588,6 +624,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="gradle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wrapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TC Sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tc-sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -636,7 +690,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.testng-sample.xml">
+  <component name="RunManager" selected="Gradle.tc-sample [wrapper]">
     <configuration default="false" name="tc-sample [wrapper]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -1065,7 +1119,7 @@
       <option name="presentableId" value="Default" />
       <updated>1487101241764</updated>
       <workItem from="1487101243334" duration="54000" />
-      <workItem from="1487101324373" duration="872000" />
+      <workItem from="1487101324373" duration="1820000" />
     </task>
     <servers />
   </component>
@@ -1075,7 +1129,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="926000" />
+    <option name="totallyTimeSpent" value="1874000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
@@ -1147,40 +1201,270 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SampleClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SampleClassTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#0;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#1;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#4;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#projectState#0;n#component#4;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#5;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#system#0;n#component#5;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#state#0;n#system#0;n#component#5;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#task#0;n#state#0;n#system#0;n#component#5;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#projects_view#0;n#state#0;n#system#0;n#component#5;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#tree_state#0;n#projects_view#0;n#state#0;n#system#0;n#component#5;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH#0;n#tree_state#0;n#projects_view#0;n#state#0;n#system#0;n#component#5;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#0;n#PATH#0;n#tree_state#0;n#projects_view#0;n#state#0;n#system#0;n#component#5;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#1;n#PATH#0;n#tree_state#0;n#projects_view#0;n#state#0;n#system#0;n#component#5;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#6;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#7;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#leaf#0;n#component#7;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#file#0;n#leaf#0;n#component#7;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#entry#0;n#file#0;n#leaf#0;n#component#7;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#provider#0;n#entry#0;n#file#0;n#leaf#0;n#component#7;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#state#0;n#provider#0;n#entry#0;n#file#0;n#leaf#0;n#component#7;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#file#1;n#leaf#0;n#component#7;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#entry#0;n#file#1;n#leaf#0;n#component#7;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#provider#0;n#entry#0;n#file#1;n#leaf#0;n#component#7;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#state#0;n#provider#0;n#entry#0;n#file#1;n#leaf#0;n#component#7;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#folding#0;n#state#0;n#provider#0;n#entry#0;n#file#1;n#leaf#0;n#component#7;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#entry#0;n#file#2;n#leaf#0;n#component#7;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#provider#0;n#entry#0;n#file#2;n#leaf#0;n#component#7;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#state#0;n#provider#0;n#entry#0;n#file#2;n#leaf#0;n#component#7;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#folding#0;n#state#0;n#provider#0;n#entry#0;n#file#2;n#leaf#0;n#component#7;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#8;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#option#0;n#component#8;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#list#0;n#option#0;n#component#8;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#9;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#option#0;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#map#0;n#option#0;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#option#1;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#map#0;n#option#1;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#option#2;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#map#0;n#option#2;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#entry#0;n#map#0;n#option#2;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#key#0;n#entry#0;n#map#0;n#option#2;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalProjectPojo#0;n#key#0;n#entry#0;n#map#0;n#option#2;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#value#0;n#entry#0;n#map#0;n#option#2;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#list#0;n#value#0;n#entry#0;n#map#0;n#option#2;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalProjectPojo#0;n#list#0;n#value#0;n#entry#0;n#map#0;n#option#2;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#list#0;n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalTaskPojo#0;n#list#0;n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalTaskPojo#1;n#list#0;n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalTaskPojo#2;n#list#0;n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalTaskPojo#3;n#list#0;n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalTaskPojo#4;n#list#0;n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalTaskPojo#5;n#list#0;n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalTaskPojo#6;n#list#0;n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalTaskPojo#7;n#list#0;n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalTaskPojo#8;n#list#0;n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalTaskPojo#9;n#list#0;n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalTaskPojo#10;n#list#0;n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalTaskPojo#11;n#list#0;n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalTaskPojo#12;n#list#0;n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalTaskPojo#13;n#list#0;n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalTaskPojo#14;n#list#0;n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalTaskPojo#15;n#list#0;n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalTaskPojo#16;n#list#0;n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalTaskPojo#17;n#list#0;n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalTaskPojo#18;n#list#0;n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalTaskPojo#19;n#list#0;n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalTaskPojo#20;n#list#0;n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalTaskPojo#21;n#list#0;n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalTaskPojo#22;n#list#0;n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalTaskPojo#23;n#list#0;n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalTaskPojo#24;n#list#0;n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalTaskPojo#25;n#list#0;n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalTaskPojo#26;n#list#0;n#value#0;n#entry#0;n#map#0;n#option#3;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#option#4;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#map#0;n#option#4;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#option#5;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#map#0;n#option#5;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#entry#0;n#map#0;n#option#5;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#value#0;n#entry#0;n#map#0;n#option#5;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalProjectBuildClasspathPojo#0;n#value#0;n#entry#0;n#map#0;n#option#5;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#option#0;n#ExternalProjectBuildClasspathPojo#0;n#value#0;n#entry#0;n#map#0;n#option#5;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#map#0;n#option#0;n#ExternalProjectBuildClasspathPojo#0;n#value#0;n#entry#0;n#map#0;n#option#5;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#entry#0;n#map#0;n#option#0;n#ExternalProjectBuildClasspathPojo#0;n#value#0;n#entry#0;n#map#0;n#option#5;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#value#0;n#entry#0;n#map#0;n#option#0;n#ExternalProjectBuildClasspathPojo#0;n#value#0;n#entry#0;n#map#0;n#option#5;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalModuleBuildClasspathPojo#0;n#value#0;n#entry#0;n#map#0;n#option#0;n#ExternalProjectBuildClasspathPojo#0;n#value#0;n#entry#0;n#map#0;n#option#5;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#option#2;n#ExternalProjectBuildClasspathPojo#0;n#value#0;n#entry#0;n#map#0;n#option#5;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#list#0;n#option#2;n#ExternalProjectBuildClasspathPojo#0;n#value#0;n#entry#0;n#map#0;n#option#5;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#option#6;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#11;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#option#0;n#component#11;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#list#0;n#option#0;n#component#11;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#14;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#15;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#navigator#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH#0;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#0;n#PATH#0;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#1;n#PATH#0;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH#1;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#0;n#PATH#1;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#1;n#PATH#1;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#2;n#PATH#1;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#3;n#PATH#1;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#4;n#PATH#1;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH#2;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#0;n#PATH#2;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#1;n#PATH#2;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#2;n#PATH#2;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#3;n#PATH#2;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH#3;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#0;n#PATH#3;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#1;n#PATH#3;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#2;n#PATH#3;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#3;n#PATH#3;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#4;n#PATH#3;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH#4;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#0;n#PATH#4;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#1;n#PATH#4;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#2;n#PATH#4;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#3;n#PATH#4;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH#5;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#0;n#PATH#5;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#1;n#PATH#5;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#2;n#PATH#5;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#3;n#PATH#5;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#4;n#PATH#5;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH#6;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="false" />
+            <element signature="n#PATH_ELEMENT#0;n#PATH#6;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="false" />
+            <element signature="n#PATH_ELEMENT#1;n#PATH#6;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="false" />
+            <element signature="n#PATH_ELEMENT#2;n#PATH#6;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="false" />
+            <element signature="n#PATH#8;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#0;n#PATH#8;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#1;n#PATH#8;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#2;n#PATH#8;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#PATH_ELEMENT#3;n#PATH#8;n#subPane#0;n#pane#0;n#panes#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#17;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#18;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#key#0;n#component#18;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#key#1;n#component#18;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#0;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalSystemSettings#0;n#configuration#0;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#option#4;n#ExternalSystemSettings#0;n#configuration#0;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#option#5;n#ExternalSystemSettings#0;n#configuration#0;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#list#0;n#option#5;n#ExternalSystemSettings#0;n#configuration#0;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#1;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#2;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#Profilers#0;n#configuration#2;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#3;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#Profilers#0;n#configuration#3;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#4;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#5;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#6;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#option#0;n#configuration#6;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#value#0;n#option#0;n#configuration#6;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#option#12;n#configuration#6;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#7;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#option#0;n#configuration#7;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#value#0;n#option#0;n#configuration#7;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#option#16;n#configuration#7;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#8;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#9;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#10;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#option#13;n#configuration#10;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#LauncherParameters#0;n#option#13;n#configuration#10;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#11;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#option#1;n#configuration#11;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#LauncherParameters#0;n#option#1;n#configuration#11;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#12;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#ExternalSystemSettings#0;n#configuration#12;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#option#4;n#ExternalSystemSettings#0;n#configuration#12;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#option#5;n#ExternalSystemSettings#0;n#configuration#12;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#13;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#14;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#option#11;n#configuration#14;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#15;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#16;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#17;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#18;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#19;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#20;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#21;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#22;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#23;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#24;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#option#15;n#configuration#24;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#25;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#26;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#27;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#28;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#29;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#list#0;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#recent_temporary#0;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#list#0;n#recent_temporary#0;n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#20;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#21;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#task#0;n#component#21;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#22;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#history-entry#0;n#component#22;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#23;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#24;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#layout#0;n#component#24;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#25;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#26;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#27;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#28;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#29;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#entry#0;n#component#29;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#provider#0;n#entry#0;n#component#29;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#state#0;n#provider#0;n#entry#0;n#component#29;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#entry#1;n#component#29;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#provider#0;n#entry#1;n#component#29;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#state#0;n#provider#0;n#entry#1;n#component#29;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#first_editor#0;n#state#0;n#provider#0;n#entry#1;n#component#29;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#entry#2;n#component#29;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#provider#0;n#entry#2;n#component#29;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#state#0;n#provider#0;n#entry#2;n#component#29;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#folding#0;n#state#0;n#provider#0;n#entry#2;n#component#29;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#entry#3;n#component#29;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#provider#0;n#entry#3;n#component#29;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#state#0;n#provider#0;n#entry#3;n#component#29;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#entry#4;n#component#29;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#provider#0;n#entry#4;n#component#29;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#state#0;n#provider#0;n#entry#4;n#component#29;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#entry#2;n#component#29;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#provider#0;n#entry#2;n#component#29;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#state#0;n#provider#0;n#entry#2;n#component#29;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#entry#5;n#component#29;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#provider#0;n#entry#5;n#component#29;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#state#0;n#provider#0;n#entry#5;n#component#29;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#folding#0;n#state#0;n#provider#0;n#entry#5;n#component#29;n#project#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/runConfigurations/testng_sample_xml.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+          <folding>
+            <element signature="n#option#15;n#configuration#0;n#component#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1193,6 +1477,43 @@
             <element signature="n#test#0;n#suite#0;n#!!top" expanded="true" />
             <element signature="n#classes#0;n#test#0;n#suite#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SampleClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SampleClassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
